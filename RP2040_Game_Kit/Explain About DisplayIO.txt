@@ -1,0 +1,2 @@
+The CircuitPython DisplayIO Library requires the display's CS pin connects to a GPIO to work but this board's display CS pin doesn't.
+You need to do some hacking on this board to connect ST7789's CS pin to GPIO18.
